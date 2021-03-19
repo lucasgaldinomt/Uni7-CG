@@ -1,0 +1,2 @@
+D:\Projetos\ComputGrafic\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\Projetos\ComputGrafic\ConsoleApplication1\Debug\ConsoleApplication1.pdb
